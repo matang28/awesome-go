@@ -1513,6 +1513,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [evaler](https://github.com/soniah/evaler) - Simple floating point arithmetic expression evaluator.
 * [ewma](https://github.com/VividCortex/ewma) - Exponentially-weighted moving averages.
 * [geom](https://github.com/skelterjohn/geom) - 2D geometry for golang.
+* [go-df](https://github.com/AdikaStyle/go-df) - Dataframes for go with csv and sql support.
 * [go-dsp](https://github.com/mjibson/go-dsp) - Digital Signal Processing for Go.
 * [go-gt](https://github.com/ThePaw/go-gt) - Graph theory algorithms written in "Go" language.
 * [goent](https://github.com/kzahedi/goent) - GO Implementation of Entropy Measures.
